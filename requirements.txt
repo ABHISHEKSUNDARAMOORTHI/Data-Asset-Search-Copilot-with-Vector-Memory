@@ -1,0 +1,13 @@
+
+streamlit
+pandas
+google-generativeai
+python-dotenv
+Pillow
+numpy
+chromadb
+scikit-learn
+altair
+matplotlib
+wordcloud
+tiktoken
